@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mostrar Alerta</title>
+</head>
+<body>
+<button onclick="mostrarAlerta()">Mostrar Alerta</button>
+
+<script>
+function mostrarAlerta() {
+  alert("¡Hola! Esta es una alerta.");
+}
+</script>
+
+</body>
+</html> 
