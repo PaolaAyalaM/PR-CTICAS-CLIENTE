@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Example</title>
+</head>
+<body>
+    <h1>Bienvenido</h1>
+    <p id="greeting"></p>
+    <label for="username">Nombre de usuario:</label>
+    <input type="text" id="username" name="username">
+    <button onclick="setUserName()">Guardar Nombre de Usuario</button>
+    <br><br>
+    <label for="language">Preferencia de Idioma: </label>
+    <select id="language" name="language">
+        <option value="es">Español</option>
+        <option value="en">Inglés</option>
+    </select>
+    <button onclick="setLanguagePreference()">Guardar Preferencia de Idioma</button>
+    <br><br>
+    Número de Visitas:
+    <p id="visitCount"></p>
+    <script src="cookies.js"></script>
+</body>
+</html>
