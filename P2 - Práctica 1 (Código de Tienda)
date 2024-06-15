@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tienda en linea</title>
+        <link rel="stylesheet" href="estiloTnd.css">
+    </head>
+    <body>
+        <header class="header">
+            <div class="flotante-izquierda">
+                <img src="https://doksuri.com/cdn/shop/files/LOGO_DOKSURI_PNG_Mesa_de_trabajo_1_180x.png?v=1683004558">
+            </div>
+            <h1 class="logo">DOKSURI FROM KR </h1>
+            <nav class="nav">
+                <ul class="menu">
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Productos</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+        <main class="main">
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/pockyblueberry_533x.jpg?v=1703272848" alt="POCKYS" width="170" height="180">
+                <h2 class="product-title">Pocky</h2>
+                <p class="product-description">Palito de galleta con cbierta sabor blueberry.</p>
+                <span class="product-price">$44.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+            
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/GlicoPockySaborFresa41gr_533x.jpg?v=1697567882" alt="POCKYS" width="170" height="180">
+                <h2 class="product-title">Pocky</h2>
+                <p class="product-description">Palito de galleta con cubierta sabor fresa.</p>
+                <span class="product-price">$44.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/products/cream2x1_533x.png?v=1681852388" alt="RAMEN" width="170" height="180">
+                <h2 class="product-title">Samyang Buldak</h2>
+                <p class="product-description">Fideo de Ramen sabor pollo picante.</p>
+                <span class="product-price">$29.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/gummydurazno_533x.png?v=1710624548" alt="GOMITAS" width="170" height="180">
+                <h2 class="product-title">Orion Gom</h2>
+                <p class="product-description">Gomitas sabor durazno.</p>
+                <span class="product-price">$19.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/pockychocolateoriginal_533x.jpg?v=1703284096" alt="POCKYS" width="170" height="180">
+                <h2 class="product-title">Pocky</h2>
+                <p class="product-description">Palito de galleta con cubierta sabor Chocolate.</p>
+                <span class="product-price">$44.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/jinrociruela_533x.png?v=1688771938" alt="SOJU" width="170" height="180">
+                <h2 class="product-title">Jinro Soju Cr</h2>
+                <p class="product-description">Licor de arroz sabor ciruela.</p>
+                <span class="product-price">$74.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+        </main>
+
+        <main class="main">
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/jinrodurazno_533x.png?v=1688773662" alt="SOJU" width="170" height="180">
+                <h2 class="product-title">Jinro Soju Dr</h2>
+                <p class="product-description">Licor de arroz sabor durazno.</p>
+                <span class="product-price">$74.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+
+            <section class="product">
+                <img src="https://cdn.shopify.com/s/files/1/0119/4101/9744/files/sandia_33cbea60-3c61-48be-b88c-eb36875dbf13_533x.png?v=1712435734" alt="GOMITAS" width="170" height="180">
+                <h2 class="product-title">Jellycious S</h2>
+                <p class="product-description">Gomitas sabor sandia.</p>
+                <span class="product-price">$19.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/makeolipeach_533x.png?v=1686612877" alt="MAKGEOLLI" width="170" height="180">
+                <h2 class="product-title">Peach Makgeolli</h2>
+                <p class="product-description">Bebida sabor durazno.</p>
+                <span class="product-price">$50.00</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+
+            <section class="product">
+                <img src="https://doksuri.com/cdn/shop/files/lechedefresa_533x.png?v=1713204939" alt="BEBIDA" width="170" height="180">
+                <h2 class="product-title">Strawberry Binggrae</h2>
+                <p class="product-description">Leche sabor fresa.</p>
+                <span class="product-price">$29.99</span>
+                <button class="btn">Agregar al carrito</button>
+            </section>
+            <section class="product">
+                <img src="https://cdn.shopify.com/s/files/1/0119/4101/9744/files/image_747d9441-c5c0-4a79-9f8d-06249a4dee57.jpg?v=1686847932" alt="ALBUM" width="170" height="180">
+                <h2 class="product-title">BTS - V Photo Folio</h2>
+                <p class="product-description">Photo Folio.</p>
+                <span class="product-price">$1,200</span>
+                <button class="btn">Agregar al carrito</button>
+        </main>
+        <p></p>
+        
+        <footer class="footer">
+            <p class="footer-text"> C 2024 Paola Ayala Mendoza. Todos los derechos reservados.</p>
+        </footer>
+    </body>
+
+</html>
